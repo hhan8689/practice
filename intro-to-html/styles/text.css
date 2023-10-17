@@ -1,0 +1,78 @@
+
+p {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 0;
+   margin-bottom: 0;
+    }
+.vt{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+    text-align: left;
+    width: 300px;
+    margin: 4px;
+}
+.vs{
+    font-size: 14px;
+    color:#606060;
+    margin:0;
+}
+.va{
+    font: size 14px;
+    color:#606060;
+    margin-bottom: 20px;
+
+}
+.video-description{
+    font-size: 14px;
+    color:#606060;
+    width: 280px;
+    line-height: 22px;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+.apple{
+    background-color: #e34140;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+
+}
+.ss:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.hcc{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: verdana;
+    color:black;
+    margin-bottom: 6;
+
+}
+.beginner{
+    font-family: verdana;
+    font-size: 14px;
+    color:grey;
+    margin-bottom: 17;
+}
+.itc{
+    font-size: 14;
+    font-family: verdana;
+    width: 280;
+    margin-bottom: 20;
+}
+.gs{
+    background-color: green;
+    color: white;
+    padding-left: 10;
+    padding-right: 10;
+    padding-top: 6;
+    padding-bottom: 6;
+    border-radius: 6px;
+    border: none;
+
+}
